@@ -1,4 +1,4 @@
-# bi_hospital_charges_analysis
+# power_bi_hospital_charges_analysis
 
 
 📊 Overview
